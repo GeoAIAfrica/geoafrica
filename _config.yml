@@ -12,3 +12,5 @@ navigation:
   url: /about.html
 - text: ORGANIZERS
   url: /organizers.html
+- text: JOIN
+  url: /join_us.html
