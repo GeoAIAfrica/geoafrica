@@ -5,7 +5,7 @@ body { color: #2e2d2d; }
 
 .update a { color: white; text-decoration: underline; }
 
-.headerbox { background-image: url("../../images/banner2.jpg"); background-size: cover; height: 300px; background-repeat: no-repeat; background-color: #1C8BE2; }
+.headerbox { background-image: url("../../images/banner.jpg"); background-size: cover; height: 300px; background-repeat: no-repeat; background-color: #1C8BE2; }
 
 .iblock { display: inline-block; }
 
