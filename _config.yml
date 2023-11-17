@@ -1,17 +1,6 @@
 theme: jekyll-theme-cayman
 description: "This page about geospactial africa"
 basepath: "geoafrica/"
-show_downloads: true
-google_analytics:
+
 
 email: "team@geospatial.org"
-
-navigation:
-- text: HOME
-  url: /
-- text: ABOUT
-  url: /about.html
-- text: ORGANIZERS
-  url: /organizers.html
-%- text: JOIN
-% url: /join_us.html
