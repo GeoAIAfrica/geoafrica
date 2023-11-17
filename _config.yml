@@ -9,6 +9,6 @@ navigation:
 - text: HOME
   url: /
 - text: ABOUT
-  url: /about
+  url: /about.html
 - text: ORGANIZERS
   url: /organizers.html
