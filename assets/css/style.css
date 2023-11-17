@@ -19,7 +19,7 @@ body{
 }
 .headerbox{
     // border: 3px solid blue ;
-    background-image: url("../../images/banner.jpg");
+    background-image: url("../images/banner.jpg");
     background-size: cover;
     height: 300px;
     background-repeat: no-repeat;
