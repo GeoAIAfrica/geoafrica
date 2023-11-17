@@ -19,4 +19,10 @@ You can cite the project as:
 
 ## Contact us
 
+<hr>
+<p>Contact us</p>
+<ul>
+    <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <li>Twitter: <a href="{{ site.twitter }}">{{ site.twitter }}</a></li>
+</ul>
 
