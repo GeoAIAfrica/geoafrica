@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 description: "This page about geospactial africa"
+basepath: "geoafrica/"
 show_downloads: true
 google_analytics:
 
