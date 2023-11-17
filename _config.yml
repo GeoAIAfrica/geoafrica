@@ -1,9 +1,8 @@
-theme: jekyll-theme-cayman
 title: "Geo Spatial Africa"
-
 description: "This page about geospactial africa"
 basepath: "geoafrica/"
-google_analytics: UA-156425047-1
+google_analytics:
+theme: jekyll-theme-cayman
 
 email: "team@geospatial.org"
 
