@@ -1,1 +1,1 @@
-# geoafrica-website
+# GeoAfrica-website 
