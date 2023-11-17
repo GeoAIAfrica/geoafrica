@@ -7,5 +7,7 @@ email: "team@geospatial.org"
 navigation:
 - text: HOME
   url: /
-- text: about
+- text: ABOUT
   url: /about
+- text: ORGANIZERS
+  url: /organizes.html
