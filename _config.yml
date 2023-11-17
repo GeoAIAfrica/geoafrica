@@ -1,2 +1,11 @@
+theme: jekyll-theme-cayman
 description: "This page about geospactial africa"
+google_analytics: UA-156425047-1
+
 email: "team@geospatial.org"
+
+navigation:
+- text: HOME
+  url: /
+- text: about
+  url: /about
