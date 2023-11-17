@@ -4,12 +4,14 @@ title: About
 ---
 
 ## About
-
+The GeoSpacial Africa Comunity XXXXXXX
 
 ## Our goal
 
 
-## Social and Policy Topics 
+## Funders
+
+We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
 
 
 ## Instructions
