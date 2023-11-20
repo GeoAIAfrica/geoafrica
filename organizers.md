@@ -16,7 +16,7 @@
         <div class="headshotname"> Girmaw Abebe Tadesse</div>
         <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Principal Research Science Manager, Microsoft, AI for Good Lab  </a>
     </div>
-
+  </div>
  
         
     <div class="iblock organizerbox ">
