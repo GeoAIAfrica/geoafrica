@@ -19,7 +19,7 @@
         
     <div class="iblock organizerbox ">
      <a target='_blank' href="https://twitter.com/AishaAlaagib">
-       <img src="{{basepath}}/images/organizers/Aisha.jpg" class="headshot" alt="picture of Aisha">
+       <img src="{{basepath}}/images/organizers/Aisha_Alaagib.jpg" class="headshot" alt="picture of Aisha">
       </a>
         <div class="headshotname"> Aisha Alaagib </div>
         <a href="https://aishaalaagib.netlify.app"  target='_blank' class="headshotaffiliation"> DFKI </a>
