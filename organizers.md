@@ -9,12 +9,21 @@
         {% endif %}
        
 <div>
+
+<div class="iblock organizerbox ">
+    <a target='_blank' href="https://twitter.com/arnupretorius?lang=en">
+     <img src="{{basepath}}/images/organizers/arnupretorius.jpg" class="headshot" alt="picture of Arnu">
+      </a>
+        <div class="headshotname"> Arnu Pretorius</div>
+        <a href="https://twitter.com/arnupretorius?lang=en"  target='_blank' class="headshotaffiliation"> InsaDeep  </a>
+</div>
+
     <div class="iblock organizerbox ">
     <a target='_blank' href="https://www.microsoft.com/en-us/research/people/gtadesse/">
      <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot" alt="picture of Girmaw">
       </a>
         <div class="headshotname"> Girmaw Abebe Tadesse</div>
-        <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Principal Research Science Manager, Microsoft, AI for Good Lab  </a>
+        <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Microsoft, AI for Good Lab  </a>
 </div>
 
 <div class="iblock organizerbox ">
@@ -22,14 +31,14 @@
         <img src="{{basepath}}/images/organizers/gilles.jpg" class="headshot" alt="picture of Gilles">
       </a>
         <div class="headshotname"> Gilles Q. Hacheme </div>
-        <a href="https://www.gilleshacheme.com/"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
+        <a href="https://www.gilleshacheme.com/"  target='_blank' class="headshotaffiliation"> Microsoft, AI for Good Lab </a>
  </div>
 <div class="iblock organizerbox ">
      <a target='_blank' href="https://twitter.com/AishaAlaagib/">
         <img src="{{basepath}}/images/organizers/Aisha_Alagib.jpg" class="headshot" alt="picture of Aisha">
       </a>
         <div class="headshotname"> Aisha Alaagib </div>
-        <a href="https://aishaalaagib.netlify.app/"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
+        <a href="https://aishaalaagib.netlify.app/"  target='_blank' class="headshotaffiliation"> DFKI </a>
  </div>
  
     
