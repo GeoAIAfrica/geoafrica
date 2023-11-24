@@ -2,9 +2,6 @@
 
 ## Organizers  
 
-        
-
-
 <div>
 
 <div class="iblock organizerbox ">
@@ -39,10 +36,7 @@
       </a>
         <div class="headshotname"> Ibrahim Salihu Yusuf </div>
         <a href="https://uk.linkedin.com/in/ibrahim-salihu-yusuf-721103100"  target='_blank' class="headshotaffiliation"> InstaDeep </a>
- </div>
- 
- 
- 
+ </div> 
     <div class="iblock organizerbox ">
     <a target='_blank' href="https://www.microsoft.com/en-us/research/people/gtadesse/">
      <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot" alt="picture of Girmaw">
