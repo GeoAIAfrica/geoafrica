@@ -15,7 +15,15 @@
       </a>
         <div class="headshotname"> Girmaw Abebe Tadesse</div>
         <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Principal Research Science Manager, Microsoft, AI for Good Lab  </a>
-    </div>
+</div>
+
+<div class="iblock organizerbox ">
+     <a target='_blank' href="https://www.gilleshacheme.com/">
+        <img src="/iclr2023/images/organizers/gilles.jpg" class="headshot" alt="picture of Gilles">
+      </a>
+        <div class="headshotname"> Gilles Q. Hacheme </div>
+        <a href="https://www.gilleshacheme.com/"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
+ </div>
         
     <div class="iblock organizerbox ">
      <a target='_blank' href="https://twitter.com/AishaAlaagib">
