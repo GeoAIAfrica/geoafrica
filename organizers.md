@@ -32,7 +32,7 @@
 
  <div class="iblock organizerbox ">
      <a target='_blank' href="https://uk.linkedin.com/in/ibrahim-salihu-yusuf-721103100">
-        <img src="{{basepath}}/images/organizers/ ibrahim.jpeg" class="headshot" alt="picture of Ibrahim">
+        <img src="{{basepath}}/images/organizers/ibrahim.jpeg" class="headshot" alt="picture of Ibrahim">
       </a>
         <div class="headshotname"> Ibrahim Salihu Yusuf </div>
         <a href="https://uk.linkedin.com/in/ibrahim-salihu-yusuf-721103100"  target='_blank' class="headshotaffiliation"> InstaDeep </a>
@@ -54,7 +54,7 @@
 
  <div class="iblock organizerbox ">
      <a target='_blank' href="https://scholar.google.at/citations?user=ZiRtIssAAAAJ&hl=en">
-        <img src="{{basepath}}/images/organizers/ Sabrina_Amrouche.jpg" class="headshot" alt="picture of Sabrina">
+        <img src="{{basepath}}/images/organizers/Sabrina-Amrouche.jpg" class="headshot" alt="picture of Sabrina">
       </a>
         <div class="headshotname"> Sabrina Amrouche </div>
         <a href="https://scholar.google.at/citations?user=ZiRtIssAAAAJ&hl=en"  target='_blank' class="headshotaffiliation"> Geneva </a>
