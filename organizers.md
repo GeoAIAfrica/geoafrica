@@ -24,14 +24,15 @@
         <div class="headshotname"> Gilles Q. Hacheme </div>
         <a href="https://www.gilleshacheme.com/"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
  </div>
-        
-    <div class="iblock organizerbox ">
-     <a target='_blank' href="https://twitter.com/AishaAlaagib">
-       <img src="{{basepath}}/images/organizers/Aisha_Alagib.jpg" class="headshot" alt="picture of Aisha">
+<div class="iblock organizerbox ">
+     <a target='_blank' href="https://twitter.com/AishaAlaagib/">
+        <img src="{{basepath}}/images/organizers/Aisha_Alagib.jpg" class="headshot" alt="picture of Aisha">
       </a>
         <div class="headshotname"> Aisha Alaagib </div>
-        <a href="https://aishaalaagib.netlify.app"  target='_blank' class="headshotaffiliation"> DFKI </a>
-    </div>
+        <a href="https://aishaalaagib.netlify.app/"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
+ </div>
+ 
+    
         
 </div>
 
