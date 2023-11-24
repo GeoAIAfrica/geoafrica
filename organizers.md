@@ -19,7 +19,7 @@
 
 <div class="iblock organizerbox ">
      <a target='_blank' href="https://www.gilleshacheme.com/">
-        <img src="/iclr2023/images/organizers/gilles.jpg" class="headshot" alt="picture of Gilles">
+        <img src="{{basepath}}/images/organizers/gilles.jpg" class="headshot" alt="picture of Gilles">
       </a>
         <div class="headshotname"> Gilles Q. Hacheme </div>
         <a href="https://www.gilleshacheme.com/"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
