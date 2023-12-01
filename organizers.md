@@ -10,7 +10,7 @@
 
 <div class="iblock organizerbox ">
     <a target='_blank' href="https://twitter.com/arnupretorius?lang=en">
-     <img src="{{basepath}}/images/organizers/arnu_pretorius.jpg" class="headshot" alt="picture of Arnu">
+     <img src="{{basepath}}/images/organizers/arnu-pretorius.jpg" class="headshot" alt="picture of Arnu">
       </a>
         <div class="headshotname"> Arnu Pretorius</div>
         <a href="https://twitter.com/arnupretorius?lang=en"  target='_blank' class="headshotaffiliation"> InsaDeep  </a>
